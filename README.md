@@ -1,6 +1,6 @@
 # É par?
 
-Esse repositório tem 3 exemplos em ruby de como descobrir se um númedo 'n' é par.
+Esse repositório tem 3 exemplos em ruby de como descobrir se um número 'n' é par.
 
 ## Include
 
