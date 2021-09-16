@@ -1,4 +1,4 @@
-# Even?
+# É par?
 
 Esse repositório tem 3 exemplos em ruby de como descobrir se um númedo 'n' é par.
 
@@ -13,4 +13,4 @@ Esse exemplo, verifica-se se o resto da divisão por 2 é zero. Número par divi
 
 ## While
 
-Nesse caso, vamos decrementando 2 de 'n' até que sobre 0 ou 1. Caso sobre 0, o número é par pois é divisível por 2. Similar com o examplo 'Module'.
+Nesse caso, vamos decrementando 2 de 'n' até que sobre 0 ou 1. Caso sobre 0, o número é par pois é divisível por 2. Similar com o exemplo 'Module'.
